@@ -1,7 +1,7 @@
 package secao3;
 
 import javax.swing.JOptionPane;
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
+//import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
 
 public class IfElse {
     public static void main(String[] args) {
