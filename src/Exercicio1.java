@@ -12,6 +12,6 @@ public class Exercicio1 {
 
         System.out.println("A temperatura convertida em celsius é: " + convercaoCelsius);
         scanner.close();
-    //teste
+
     }
 }
