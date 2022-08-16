@@ -8,7 +8,7 @@ public class Exercicio4 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite um valor: ");
-        Double valor = scanner.nextDouble();
+        double valor = scanner.nextDouble();
 
 
         System.out.println("O valor ao cubo é: " +Math.pow(valor, 3) );

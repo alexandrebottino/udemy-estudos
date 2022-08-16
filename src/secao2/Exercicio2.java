@@ -8,7 +8,7 @@ public class Exercicio2 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Entre com a temperatura em Celsius: ");
-        Double celsius = scanner.nextDouble();
+        double celsius = scanner.nextDouble();
 
         double conversaoFahrenheit = (celsius * 9/5) + 32;
 
