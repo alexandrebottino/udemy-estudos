@@ -15,7 +15,6 @@ public class DataTeste {
 
         System.out.println(d1.formatarData());
         System.out.println(d2.formatarData());
-
     }
 
 }
